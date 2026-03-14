@@ -4,6 +4,7 @@ Technologies:
 - Java
 - Spring Boot
 - Maven
+- REST API
 
 Features:
 - Create Task
@@ -12,4 +13,5 @@ Features:
 - View Tasks
 
 Description:
-This is a Spring Boot REST API project used to manage tasks with CRUD operations.
+This project is a Task Management System developed by using Spring Boot.
+It provides REST APIs to manage tasks with CRUD operations.
